@@ -44,3 +44,5 @@ function getValue(char) {
 function isConsonant(char) {
   return !'aeiou'.includes(char)
 }
+
+// or
