@@ -14,3 +14,6 @@ and "c" = 3. The highest is 26.
 The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 = 57 
 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest is 57.
 */
+
+
+// Solution
